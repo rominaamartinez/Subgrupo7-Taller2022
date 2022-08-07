@@ -1,11 +1,27 @@
 *{
     background-color: rgb(218, 247, 247);
+    padding: auto;
+    justify-content: center;
 }
 li{
     font-style:italic;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(0, 22, 0);
+    background-color:greenyellow;
+    margin-left: 50pt;
 }
 
 h1{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    color: rgb(12, 39, 1);
+    margin-left: 280pt;
+}
+
+p{
+    background-color: rgb(23, 58, 15);
+    color:rgb(221, 253, 78);
+}
+
+img{
+    margin-left: 340pt;
 }
